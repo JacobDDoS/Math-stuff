@@ -5,6 +5,7 @@ namespace mp = boost::multiprecision;
 using namespace std;
 
 typedef mp::cpp_dec_float_50 float50;
+using mp::cpp_int;
 
 //Example Input
 /*
